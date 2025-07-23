@@ -1,12 +1,21 @@
-# Assignment_Data
+# Assignment_Data for the resit
 
-All materials for the assignment can be found here:
-<!-- - BIDS_assignment_training_data.xlsx -->
+Please refer to the recording of BIDS11 for additional details.
+Note that this is a different dataset than what was used in BIDS 2025, i.e. *do not* use the data in [BIDS11-AssignmentData](https://github.com/ICL-BMB-BiDS/BIDS11-AssignmentData).
+
+With the materials from BIDS2-10 you are tasked to:
+A.	Create a data analysis workflow to best classify non-IBD, Crohn’s Disease (CD) and Ulcerative Colitis (UC) samples using at least 1 method from BIDS 2-4 (dimension reduction), at least 1 method from BIDS 5-6 (clustering) and at least 1 method from BIDS 7-10 (supervised learning).
+B.	Give a measure of variable importance to individual variables *for each group*.
+To answer two research questions:
+1.	How well can you predict new samples to be either a Crohn’s disease, ulcerative colitis or control sample using a data analysis workflow that includes methods from BIDS 2-4, BIDS 5-6 and BIDS 7-10?
+2.	What are the (most) predictive variables of your model *for each group*?
+
+The resit training dataset has 417 different samples and all materials (including the test set and submission format) for the assignment can be found here:
 - BIDS_assignment_training_data_RESIT.xlsx
 - BIDS_assignment_test_data.xlsx
 - BIDS_assignment_test_data_predictionsubmissionformat.xlsx
 
-<!-- 1. Use BIDS_assignment_training_data_RESIT.xlsx to train your models. -->
+Create a Jupyter Notebook using your choice of tutorial materials from BIDS2-10 to predict the unlabelled test set, ensure the file for summative submission is created as described on the GitHub/in BIDS11:
 1. Use BIDS_assignment_training_data_RESIT.xlsx to train your models.
 2. Apply your model on BIDS_assignment_test_data.xlsx.
 3. Add your test set predictions in BIDS_assignment_test_data_predictionsubmissionformat.xlsx.
