@@ -1,11 +1,12 @@
 # Assignment_Data for the resit
 
 Please refer to the recording of BIDS11 for additional details.
-Note that this is a different dataset than what was used in BIDS 2025, i.e. *do not* use the data in [BIDS11-AssignmentData](https://github.com/ICL-BMB-BiDS/BIDS11-AssignmentData).
+_Note that this is a different dataset than what was used in BIDS 2025, i.e. *do not* use the data in [BIDS11-AssignmentData](https://github.com/ICL-BMB-BiDS/BIDS11-AssignmentData)._
 
 With the materials from BIDS2-10 you are tasked to:
-A.	Create a data analysis workflow to best classify non-IBD, Crohn’s Disease (CD) and Ulcerative Colitis (UC) samples using at least 1 method from BIDS 2-4 (dimension reduction), at least 1 method from BIDS 5-6 (clustering) and at least 1 method from BIDS 7-10 (supervised learning).
-B.	Give a measure of variable importance to individual variables *for each group*.
+-	Create a data analysis workflow to best classify non-IBD, Crohn’s Disease (CD) and Ulcerative Colitis (UC) samples using at least 1 method from BIDS 2-4 (dimension reduction), at least 1 method from BIDS 5-6 (clustering) and at least 1 method from BIDS 7-10 (supervised learning).
+-	Give a measure of variable importance to individual variables *for each group*.
+
 To answer two research questions:
 1.	How well can you predict new samples to be either a Crohn’s disease, ulcerative colitis or control sample using a data analysis workflow that includes methods from BIDS 2-4, BIDS 5-6 and BIDS 7-10?
 2.	What are the (most) predictive variables of your model *for each group*?
